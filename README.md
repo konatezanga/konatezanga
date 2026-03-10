@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zanga Siaka KONATE</h1>
 <h3 align="center">Développeur web FullStack Jr | Explorateur de technologie futur</h3>
 
-- 🔭 Je travaille actuellement sur [Freeance IT](https://freelanceit-2mha.onrender.com/)
+- 🔭 Je travaille actuellement sur [Loua](un projet pour valider la recherche de logement à Abidjan)
 
-- 🌱 J'approfondie actuellement **JavaScript, Python**
+- 🌱 J'approfondie actuellement **JavaScript, JAVA/Spring Boot**
 
 - 📫 Comment me contacter **zanga.konate2023@esatic.edu**
 
