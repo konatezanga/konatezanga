@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zanga Siaka KONATE</h1>
-<h3 align="center">Développeur web FullStack Jr | Explorateur de technologie futur</h3>
+<h3 align="center">Développeur web FullStack | Explorateur de technologie futur</h3>
 
 - 🔭 Je travaille actuellement sur [Loua](un projet pour valider la recherche de logement à Abidjan)
 
